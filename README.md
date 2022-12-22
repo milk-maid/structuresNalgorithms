@@ -1,6 +1,6 @@
 # Data Structures & Algorithms (DSA)
 
-A prep course I took in setting out for *BLOCKCHAIN(Web3) Training* at *Web3Bridge* come the comencement of cohortVIII.
+A prep course I took in setting out for *BLOCKCHAIN(Web3) Training* at **Web3Bridge** come the comencement of cohortVIII.
 
 ## Technologies
 
